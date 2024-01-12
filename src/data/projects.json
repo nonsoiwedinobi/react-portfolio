@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather-App",
+    "imageSrc": "projects/project.png",
+    "description": "The Weather Dashboard is a web application that allows travelers to see the weather for multiple cities.",
+    "skills": ["JavaScript", "jQuery"],
+    "demo": "https://nonsoiwedinobi.github.io/Weather-App/",
+    "source": "https://github.com/nonsoiwedinobi/Weather-App"
+  },
+  {
+    "title": "Work Day Scheduler",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a simple calendar app designed to help you schedule and organize your workday effectively.",
+    "skills": ["JavaScript", "DayJS"],
+    "demo": "https://nonsoiwedinobi.github.io/Daily-Planner-App/",
+    "source": "https://github.com/nonsoiwedinobi/Daily-Planner-App"
+  },
+  {
+    "title": "what2watch",
+    "imageSrc": "projects/project3.png",
+    "description": "A web application that helps you discover and explore your favorite movies and TV series.",
+    "skills": ["Bootstrap", "JS"],
+    "demo": "https://nonsoiwedinobi.github.io/what2watch/",
+    "source": "https://github.com/nonsoiwedinobi/what2watch"
+  }
+]
