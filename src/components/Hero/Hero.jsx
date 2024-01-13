@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a front-end developer with 1 year experience using HTML, CSS,
           JavaScript, React and NodeJS. Contact me if you'd like to hire me.
         </p>
-        <a className={styles.contactBtn} href="/assets/NonsoIwedinobiDev.pdf">
+        <a className={styles.contactBtn} href="/assets/NonsoIwedinobiDev.pdf" target="blank">
           Download CV
         </a>
       </div>
